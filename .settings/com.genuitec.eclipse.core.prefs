@@ -1,0 +1,3 @@
+eclipse.preferences.version=1
+validator.Checked=WebRoot/web/Background/js,WebRoot/web/Foreground,WebRoot/web/Background/bower_components
+validator.Unchecked=
